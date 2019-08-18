@@ -1,1 +1,1 @@
-# streamy
+Streamy is a replica of Twitch, which is the world's leading live streaming platform for gamers. People share their online streaming of different activities. I tried to make a replica of twitch where a user can create, edit, show and delete his streams.
